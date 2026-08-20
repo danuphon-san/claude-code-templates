@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T03:42:30.004306+00:00",
-  "totalJobs": 98,
+  "lastUpdated": "2026-08-20T03:42:50.889779+00:00",
+  "totalJobs": 97,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1866,27 +1866,6 @@
         "GCP",
         "Azure",
         "Kubernetes",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5125387008",
-      "company": "Anthropic",
-      "position": "Data Engineering Manager, Product",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "As a Data Engineering Manager focused on Product, you will build and lead the analytics engineering team responsible for creating the data foundations that enable data-driven decision making across Anthropic’s Product organization. You will oversee the development of scalable data solutions for...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
-      "postedAt": "2026-02-19T19:49:54-05:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "AWS",
         "Claude Code",
         "Anthropic"
       ],
